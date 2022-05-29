@@ -1,0 +1,19 @@
+.margin-top{
+    margin-top: 5%;
+}
+
+.marginheader-top{
+    margin-top: 2%;
+}
+
+.marginheader-top:hover {
+    background-color: #ffc107;
+}
+
+.margin-left {
+    margin-left: 45%;
+}
+
+.borderoption {
+    border: 5px solid white;
+}

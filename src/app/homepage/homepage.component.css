@@ -1,0 +1,30 @@
+.navbar-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    left: 0;
+    z-index: 20;
+    padding: 10px;
+}
+
+.margin-top{
+    margin-top: 10%;
+}
+
+.margin-left-right {
+    margin-left: 35%;
+    margin-right: 40%;
+}
+
+.border-3 {
+    border-width: 4px;
+}
+
+button:hover{
+    background-color: #ffc107;
+}
+
+.border{
+    border: 5px solid black;
+}
