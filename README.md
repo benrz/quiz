@@ -34,3 +34,8 @@ Simple quiz website built using Angular.
   <img src="docs/4.jpg">
 </p>
 <br>
+
+## Contributors
+* Benny Richardson
+* Kevin Hendy
+* Wilson Philips
